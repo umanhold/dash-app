@@ -1,0 +1,66 @@
+
+.rc-slider-track {
+    color: black;
+}
+
+.rc-slider-track {
+  background-color: grey;
+}
+
+.rc-slider-dot-active {  
+  border-color: white;
+  border: solid 2px grey;
+}
+
+.rc-slider-handle {
+  background-color: white;
+  border-color: grey;
+}
+
+.rc-slider-handle:hover {
+  border-color: grey;
+}
+
+.rc-slider-handle:focus {
+    border-color: darkred;
+    box-shadow: 0 0 0 1px darkred;
+}
+
+
+.rc-slider-handle-active:active {
+    border-color: grey;
+    lighting-color: grey;
+}
+
+.Select-value {
+    background-color: lightgrey;
+}
+
+.is-focused:not(.is-open) > .Select-control {
+    box-shadow: 1px 1px 1px 1px black
+}
+
+.Select-control {
+    background-color: lightgrey;
+    border-color: black;
+}
+
+.Select-placeholder {
+    background-color: lightgrey;
+}
+
+
+.VirtualizedSelectOption {
+   background-color: lightgrey;
+   color: black;
+}
+.VirtualizedSelectFocusedOption {
+    background-color: grey;
+    color: black;
+}
+
+.card {
+    background-color: lightgrey;
+    border-color: darkgrey;
+    text-align: center;
+}

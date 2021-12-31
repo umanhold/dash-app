@@ -1,0 +1,33 @@
+Bottleneck @ file:///C:/ci/bottleneck_1607557040328/work
+Brotli @ file:///D:/bld/brotli-split_1635846030050/work
+certifi==2021.10.8
+click @ file:///D:/bld/click_1635822757640/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1632235402030/work
+dash-bootstrap-components @ file:///home/conda/feedstock_root/build_artifacts/dash-bootstrap-components_1639337350705/work
+dash-extensions @ file:///home/conda/feedstock_root/build_artifacts/dash-extensions_1639918122250/work
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
+EditorConfig @ file:///home/conda/feedstock_root/build_artifacts/editorconfig_1636044710028/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1633384704162/work
+Flask-Caching @ file:///home/conda/feedstock_root/build_artifacts/flask-caching_1628873906391/work
+Flask-Compress @ file:///home/conda/feedstock_root/build_artifacts/flask-compress_1623842138238/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
+jsbeautifier @ file:///home/conda/feedstock_root/build_artifacts/jsbeautifier_1636074006843/work
+MarkupSafe @ file:///D:/bld/markupsafe_1635833710307/work
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+mkl-service==2.4.0
+more-itertools @ file:///home/conda/feedstock_root/build_artifacts/more-itertools_1637732846337/work
+numexpr @ file:///C:/ci/numexpr_1640704337920/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1634088717532/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas @ file:///C:/ci/pandas_1635506685681/work
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1640064922437/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1626090218611/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
+wincertstore==0.2

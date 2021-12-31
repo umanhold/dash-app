@@ -1,0 +1,20 @@
+body {
+    font-family: ms-sanserif;
+    background-color: lightgrey;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    width: 90%;
+}
+
+h5 {
+    color: black;
+    text-transform: none;
+}
+
+footer {
+    color: black;
+}
+
