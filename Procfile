@@ -1,1 +1,1 @@
-web: gunicorn run:server $PATH
+web: gunicorn run:server
