@@ -17,9 +17,6 @@ df = data.process_data()
 app = dash.Dash(external_stylesheets=[dbc.themes.LUX])
 app.title = config.app_title
 
-# server
-server = app.server
-
 # options
 region_options = {region: df[(df.region == region)].country.unique() for region in df.region.unique()}
 region_options.update({"World": [country for country in df.country.unique() if country != ""]})
