@@ -14,7 +14,7 @@ data = Data()
 df = data.process_data()
 
 # app instance
-app = dash.Dash(external_stylesheets=[dbc.themes.LUX])
+app = dash.Dash(external_stylesheets=[dbc.themes.LUX], name="app1", url_base_pathname="/app1/")
 app.title = config.app_title
 
 # options
